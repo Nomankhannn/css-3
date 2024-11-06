@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+body{
+    background-color: gray;
+}
+h1{
+    color: black;
+    background-color: aqua;
+    text-align: center;
+}
+h2{
+    color: black;
+    background-color: chartreuse;
+    text-align: right;
+    text-decoration: underline;
+}
+p{
+    font-family: "Roboto Flex", sans-serif;
+    color: black;
+}
+.noman{
+    color: aliceblue;
+    text-decoration: line-through;
+}
